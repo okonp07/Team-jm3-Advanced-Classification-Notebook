@@ -15,7 +15,7 @@ Below is a list of all the members of this team who are to participate in this p
 With this context, EDSA is challenging you during the Classification Sprint to take up the task of creating a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data. The goal is to use this information to determine how people perceive climate change and whether or not they believe it is a real threat. This would add to their market research efforts in gauging how their product/service may be received. Providing an accurate and robust solution to this task gives companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
 
 ## Data details (Source, description and definition)
-### Data 
+### Data source
 The collection of this data was funded by a Canada Foundation for Innovation JELF Grant to Chris Bauch, University of Waterloo. The dataset aggregates tweets pertaining to climate change collected between Apr 27, 2015 and Feb 21, 2018. In total, 43943 tweets were collected. Each tweet is labelled as one of the following classes:
 
 ### Class Description
