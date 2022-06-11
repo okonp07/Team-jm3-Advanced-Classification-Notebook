@@ -56,3 +56,6 @@ It will help to rely heavily on the materials provided by Explore Data Sciecnce 
 - [Trello Board]([https://trello.com/b/8tyJGjPm/classification-zm3](https://trello.com/b/aUqUenyf/classification-predict))
 - [Kaggle Challenge]([https://www.kaggle.com/c/edsa-climate-change-belief-analysis-2021/](https://www.kaggle.com/competitions/edsa-climate-change-belief-analysis-2022/overview))
 
+- [Trello Board](https://trello.com/b/8tyJGjPm/classification-zm3)
+- [Kaggle Challenge](https://www.kaggle.com/c/edsa-climate-change-belief-analysis-2021/)
+
