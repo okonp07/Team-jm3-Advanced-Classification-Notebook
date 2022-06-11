@@ -46,7 +46,7 @@ All team mates have been added as collaborators in the project, and the steps fo
 7. Merge your branch with the main branch
 
 ### Dependencies
-Note that the dependencies required for the notebook to run must be installed in any machine before the jupyter file runs as it should. You may use google, stack overflow and other online resources to install and update the dependencies that may be requisite for the execution of the jupyter notebook.
+Note that the dependencies required for the notebook to run must be installed in any machine before the jupyter file runs as it should. Note that some of theses dependencies may not install with a simple pip command as you might expect. You may use google, stack overflow and other online resources to install and update the dependencies whenever you need to. These dependencies usually are requisite for the execution of the jupyter notebook.
 
 ### Resources
 It will help to rely heavily on the materials provided by Explore Data Sciecnce Academy at their learning platform, Athena for instructions on how to create and modify categorical models. please use those resources and kindly update this readme file with relevant links to meterial that may be beneficial to our work
