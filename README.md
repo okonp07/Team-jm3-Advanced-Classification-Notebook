@@ -50,8 +50,7 @@ Note that the dependencies required for the notebook to run must be installed in
 
 ### Resources
 It will help to rely heavily on the materials provided by Explore Data Sciecnce Academy at their learning platform, Athena for instructions on how to create and modify categorical models. please use those resources and kindly update this readme file with relevant links to meterial that may be beneficial to our work
-
-**Others**
+### Others
 Refer to our teams Trello board for details on tasks assigned to specific teammates, progress reports and other updates.
 - [Trello Board](https://trello.com/b/aUqUenyf/classification-predict)
 
