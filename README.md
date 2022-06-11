@@ -35,7 +35,7 @@ The jupyter notebook in this repository is a detailed documentation of the techn
 This file will be worked on and improved upon by other team members with the goal of reaching the goals and accomplishing the tasks set out as the projects goals above. By the harnessing the contribution of all team members, we shall hopefully generate a final model whch is better at guaging the sentiments of twitter users in relation to the subject of climate change. This information will form the bases for decisions to be made by these companies to achieve their cooperate goals. 
 
 ### How to work on the base file as a Collaborator
-All team mates have been added as collaborators in the project, and the steps for active participation is detailed belowThe steps are as follows:
+All team mates have been added as collaborators in the project, and the steps for active participation in the project is detailed below:
 
 1. Clone the repo
 2. Create a branch using your name
