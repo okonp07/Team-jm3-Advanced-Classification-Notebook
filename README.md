@@ -3,12 +3,12 @@
 Climate change is a problem the world over. Everywhere, governments, companies and other concerned groups are constantly exploring ways to reduce carbon footprints by reducing emmisions of carbon per person as much as is possible. The main sources of energy used in the world today are carbon fuels and this reality creates a dilema in our world. The worlds socio-economic system rely heavily on energy and while every body wants to be responsible and leave as low a carbon foot print as possible, the reality remains that energy makes the world go round and in the real world, there is a direct correlation between Industrilization/developmemnt and energy consumption. 
 
 ## Team members 
-Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at explore DS academy.
+Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE DS academy.
 #### Prince Okon
 #### Marvic Cocouvi
 #### Abiemwense Omokaro
 #### Buhari Shehu
-#### Nqosa Lehloenya
+#### Nqosa Lehloenya 
 #### Kefa Kiprono
 
 ## Project Goal
