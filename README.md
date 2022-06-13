@@ -4,12 +4,12 @@ Climate change is a problem the world over. Everywhere, governments, companies a
 
 ## Team members 
 Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE DS academy.
-#### Prince Okon
-#### Marvic Cocouvi
-#### Abiemwense Omokaro
-#### Buhari Shehu
-#### Nqosa Lehloenya 
-#### Kefa Kiprono
+- Prince Okon
+- Marvic Cocouvi
+- Abiemwense Omokaro
+- Buhari Shehu
+- Nqosa Lehloenya 
+- Kefa Kiprono
 
 ## Project Goal
 With this context, EDSA is challenging you during the Classification Sprint to take up the task of creating a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data. The goal is to use this information to determine how people perceive climate change and whether or not they believe it is a real threat. This would add to their market research efforts in gauging how their product/service may be received. Providing an accurate and robust solution to this task gives companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
