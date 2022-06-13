@@ -57,5 +57,5 @@ Refer to our teams Trello board for details on tasks assigned to specific teamma
 Refer to the kaggle leader board to access details on the teams performance on the ongoing Kaggle challenge
 - [Kaggle Challenge](https://www.kaggle.com/competitions/edsa-climate-change-belief-analysis-2022/overview)
 
-Refer to the presentation slides for necessary suggestions and contributions, by just clicking on
+Refer to the presentation slides, by clicking on
 - [Presentation Slides](https://docs.google.com/presentation/d/1xBDXbAlgfS7AvcFOfY_RwvkqdzK8evD3ChHPKpBaQyo/edit#slide=id.g92a1ad2113_0_583)
