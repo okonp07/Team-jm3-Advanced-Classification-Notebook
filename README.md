@@ -1,15 +1,18 @@
-# Team-jm3-Advanced-Classification-Base-Notebook
-## Project Overview
-Climate change is a global problem. Everywhere, governments, companies and other concerned groups are constantly exploring ways to reduce carbon footprints by reducing emmisions of carbon per person as much as possible. The main sources of energy used in the world today are carbon fuels and this reality creates a dilema in our world. The worlds socio-economic system rely heavily on energy and while every body wants to be responsible and leave as low a carbon foot print as possible, the reality remains that energy makes the world go round and in the real world, there is a direct correlation between Industrilization/developmemnt and energy consumption. 
+# Team-JM3-Advanced-Classification-Base-Notebook
 
-## Team members 
-Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE DS academy.
+## Project Overview
+Industrialization is the enabler of modern economic growth and development. However, this comes at the cost of emitting greenhouse gases that contribute, negatively, to climate change and ultimately global warming. Governments, eco-conscious organizations, and civil societies around the world are constantly exploring ways to reduce their carbon footprints.
+ 
+## Team Members and Supervisor
+Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE Data Science Academy.
 - Prince Okon
 - Marvic Cocouvi
 - Abiemwense Omokaro
 - Buhari Shehu
 - Nqosa Lehloenya 
 - Kefa Kiprono
+
+Supervisor: John Mohale
 
 ## Project Goal
 With this context, EDSA is challenging you during the Classification Sprint to take up the task of creating a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data. The goal is to use this information to determine how people perceive climate change and whether or not they believe it is a real threat. This would add to their market research efforts in gauging how their product/service may be received. Providing an accurate and robust solution to this task gives companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
