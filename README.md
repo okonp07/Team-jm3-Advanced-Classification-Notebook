@@ -1,10 +1,10 @@
 # Team-JM3-Advanced-Classification-Base-Notebook
 
 ## Project Overview
-Industrialization is the enabler of modern economic growth and development. However, this comes at the cost of emitting greenhouse gases that contribute, negatively, to climate change and ultimately global warming. Governments, eco-conscious organizations, and civil societies around the world are constantly exploring ways to reduce their carbon footprints.
+Industrialization is the enabler of modern economic growth and development. However, this comes at the cost of emitting greenhouse gases that contribute, negatively, to climate change and ultimately global warming. Governments, eco-conscious organizations, and civil societies around the world are constantly exploring ways to reduce their carbon footprints. Despite many indices pointing towards climate change, many are of the belief that the phenomenon is a hoax. In this project, we are going to use the novel tweets of some individuals to build a Machine Learning (ML) model to identify their beliefs in climate change. The outcome of this model will help companies to predict how their eco-friendly products will be received by their prospective customers. 
  
 ## Team Members and Supervisor
-Below is a list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE Data Science Academy.
+Below is the list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE Data Science Academy.
 - Prince Okon
 - Marvic Cocouvi
 - Abiemwense Omokaro
@@ -12,10 +12,10 @@ Below is a list of all the members of this team who are to participate in this p
 - Nqosa Lehloenya 
 - Kefa Kiprono
 
-Supervisor: John Mohale
+**Supervisor: John Mohale**
 
-## Project Goal
-With this context, EDSA is challenging you during the Classification Sprint to take up the task of creating a Machine Learning model that is able to classify whether or not a person believes in climate change, based on their novel tweet data. The goal is to use this information to determine how people perceive climate change and whether or not they believe it is a real threat. This would add to their market research efforts in gauging how their product/service may be received. Providing an accurate and robust solution to this task gives companies access to a broad base of consumer sentiment, spanning multiple demographic and geographic categories - thus increasing their insights and informing future marketing strategies.
+## Project Aim
+To build an ML model that uses the novel tweets of individuals to determine climate change believers amongst them for strategic business decisions. 
 
 ## Data details (Source, description and definition)
 ### Data source
