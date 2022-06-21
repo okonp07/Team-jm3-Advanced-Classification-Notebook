@@ -1,7 +1,7 @@
-# Team-JM3-Advanced-Classification-Base-Notebook
+# 2201ACDS_JM3 Advanced Classification Base Notebook
 
 ## Project Overview
-Industrialization is the enabler of modern economic growth and development. However, this comes at the cost of emitting greenhouse gases that contribute, negatively, to climate change and ultimately global warming. Governments, eco-conscious organizations, and civil societies around the world are constantly exploring ways to reduce their carbon footprints. Despite many indices pointing towards climate change, many people are of the belief that climate change is a hoax. In this project, we are going to use the novel tweets of some individuals to build a Machine Learning (ML) model to identify their beliefs in climate change. The outcome of this model will help companies to predict how their eco-friendly products will be received by their prospective customers. 
+Industrialization is the enabler of modern economic growth and development. However, this comes at the cost of emitting greenhouse gases that contribute, negatively, to climate change and ultimately global warming. Governments, eco-conscious organizations, and civil societies around the world are constantly exploring ways to reduce their carbon footprints. Despite many indices pointing towards climate change, many people are of the belief that climate change is a hoax. In this project, we are going to use the novel tweets of some individuals to build a Machine Learning (ML) model to identify their beliefs about climate change. This model’s outcome will help companies to predict how their eco-friendly products will be received by their prospective customers. 
  
 ## Team Members and Supervisor
 Below is the list of all the members of this team who are to participate in this project. At the time of generating this repository, they are all students at EXPLORE Data Science Academy.
