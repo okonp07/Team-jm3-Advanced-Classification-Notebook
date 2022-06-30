@@ -1,4 +1,4 @@
-# 2201ACDS_JM3 Advanced Classification Base Notebook
+# 2201ACDS_JM3 Advanced Classification Notebook
 
 ## Project Overview
 
