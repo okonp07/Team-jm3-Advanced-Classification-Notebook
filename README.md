@@ -1,4 +1,4 @@
-# 2201ACDS_JM3 Advanced Classification Notebook
+# 2201ACDS_JM3 Advanced Classification Using novel tweets for sentiment analysis
 
 ## Project Overview
 
